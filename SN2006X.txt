@@ -1,5 +1,4 @@
 (1)  2016ApJ...821..119C
-
 TSTART           TSTOP              Freq         Flux            ErrFlux   Instrument Ref
  (mjd)           (mjd)              (GHz)        (uJy)           (uJy) 
 --------------------------------------------------------------------------------------------
